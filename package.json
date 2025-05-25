@@ -1,5 +1,5 @@
 {
-  "name": "devil",
+  "name": "spidy",
   "version": "2.0.0",
   "description": "",
   "main": "server.js",
@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": [],
+  "keywords": [king 👑 X spidy ],
   "author": "l",
   "license": "ISC",
   "dependencies": {
