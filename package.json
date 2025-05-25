@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": [king 👑 X spidy ],
+  "keywords": [ ],
   "author": "l",
   "license": "ISC",
   "dependencies": {
